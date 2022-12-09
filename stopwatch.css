@@ -1,0 +1,29 @@
+body{
+    background: blueviolet;
+    margin-left:35%;
+   margin-top:15%;
+}
+#start{
+    margin:40px;
+    width: 80px;
+    height: 40px;
+    background-color:yellow;
+}
+#stop{
+    margin:40px;
+    width: 80px;
+    height: 40px;
+    background-color:yellow;
+}
+#reset{
+    margin:40px;
+    width: 80px;
+    height: 40px;
+    background-color:yellow;
+}
+#stopwatch1{
+    width: 600px;
+    height: 80px;
+    font-size: 100px;
+    color: yellow;
+}
